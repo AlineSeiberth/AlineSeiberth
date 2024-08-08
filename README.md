@@ -27,10 +27,9 @@
  <img align="right" height="220em" alt="Rafa-yoda" src="https://github.com/JuuhNeumann/projeto-sds3/blob/main/frontend/src/assets/img/gatinhoo.gif">
 <div> 
 
-  <a href="https://www.instagram.com/julianeumannb/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contato@luqui2.tech"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/júlia-neumann/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/aline_seiberth_neumann?igsh=MXNpY3AxN3EwY3Vmbw==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/aline-seiberth/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- ![Snake animation](https://github.com/JuuhNeumann/JuuhNeumann/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/AlineSeiberth/AlineSeiberth/blob/output/github-contribution-grid-snake.svg)
  
 </div>
